@@ -1,6 +1,6 @@
 # itelective3-web
 
-# Department of Environment and Natural Resources (DENR) - Western Visayas (Region 6)
+# Department of Environment and Natural Resources - Western Visayas 
 # MEVN-Mongo+Express+Vue+Node
 # Attendance Monitoring System
 The attendance system is used to track employees' attendance and movement during working hours and to prepare materials for wage processing.
